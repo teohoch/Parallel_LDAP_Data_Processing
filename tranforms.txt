@@ -1,0 +1,2 @@
+
+Freq-Mhz or Meas Freq-Mhz => Freq => Wavelenght
